@@ -1,5 +1,5 @@
 # Responsive-Temple-Website-Design-04-12-24
-## [LIVE PREVIEW](https://amanayak.github.io/Responsive-Temple-Website-Design-04-12-24/)
+## [LIVE PREVIEW](https://codinggujaratweb.github.io/Responsive-Temple-Website-Design-04-12-24/)
 ### Responsive Temple Website
 
 - Responsive Temple Website Design Using HTML CSS And JavaScript
